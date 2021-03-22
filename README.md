@@ -1,2 +1,12 @@
 # Solution-of-2D-heat-conduction-equation------MATLAB
-The project is based on solving the heat conduction equation with stady and unsteady process.
+
+This project is based on creation of 2D solver to simulate the heat conduction equation. Both Steady and Un-steady govening equations have been solved with explicit and implicit functions.
+
+## Methods
+
+Jacobi
+Gauss - Siedel
+Successive over relaxation
+Crank nicolson Methods.
+
+
